@@ -42,4 +42,4 @@ I wasn't sure what movie id and key to use for Wonder Woman when getting similar
 <img src="http://g.recordit.co/H1IXVIL5tg.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+
